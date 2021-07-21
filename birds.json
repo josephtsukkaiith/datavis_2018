@@ -1,0 +1,634 @@
+{
+  "description": "Birds of Antarctica, grouped by family",
+  "source": "https://en.wikipedia.org/wiki/List_of_birds_of_Antarctica",
+  "birds": [
+  {
+    "family": "1-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "2",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "2-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "3-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "1",
+    "social": "0",
+    "integrity": "0",
+    "explore": "4",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "4-Sep",
+    "competence": "44",
+    "aesthetics": "74",
+    "energy": "7",
+    "social": "7",
+    "integrity": "4",
+    "explore": "93",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "5-Sep",
+    "competence": "16",
+    "aesthetics": "14",
+    "energy": "7",
+    "social": "57",
+    "integrity": "0",
+    "explore": "11",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "6-Sep",
+    "competence": "5",
+    "aesthetics": "9",
+    "energy": "1",
+    "social": "18",
+    "integrity": "0",
+    "explore": "46",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "7-Sep",
+    "competence": "4",
+    "aesthetics": "9",
+    "energy": "0",
+    "social": "54",
+    "integrity": "0",
+    "explore": "53",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "8-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "9-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "4",
+    "integrity": "0",
+    "explore": "4",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "10-Sep",
+    "competence": "4",
+    "aesthetics": "52",
+    "energy": "1",
+    "social": "237",
+    "integrity": "0",
+    "explore": "65",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "11-Sep",
+    "competence": "0",
+    "aesthetics": "2",
+    "energy": "2",
+    "social": "15",
+    "integrity": "0",
+    "explore": "18",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "12-Sep",
+    "competence": "8",
+    "aesthetics": "41",
+    "energy": "1",
+    "social": "61",
+    "integrity": "0",
+    "explore": "133",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "13-Sep",
+    "competence": "3",
+    "aesthetics": "13",
+    "energy": "16",
+    "social": "34",
+    "integrity": "0",
+    "explore": "120",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "14-Sep",
+    "competence": "0",
+    "aesthetics": "10",
+    "energy": "0",
+    "social": "7",
+    "integrity": "0",
+    "explore": "93",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "15-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "2",
+    "integrity": "0",
+    "explore": "2",
+    "data": "none",
+    "": ""
+  },
+  {
+    "family": "16-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "1",
+    "explore": "1",
+    "data": "none"
+  },
+  {
+    "family": "17-Sep",
+    "competence": "7",
+    "aesthetics": "6",
+    "energy": "9",
+    "social": "5",
+    "integrity": "0",
+    "explore": "57",
+    "data": "none"
+  },
+  {
+    "family": "18-Sep",
+    "competence": "20",
+    "aesthetics": "0",
+    "energy": "4",
+    "social": "6",
+    "integrity": "0",
+    "explore": "60",
+    "data": "none"
+  },
+  {
+    "family": "19-Sep",
+    "competence": "5",
+    "aesthetics": "11",
+    "energy": "5",
+    "social": "6",
+    "integrity": "0",
+    "explore": "32",
+    "data": "none"
+  },
+  {
+    "family": "20-Sep",
+    "competence": "200",
+    "aesthetics": "42",
+    "energy": "10",
+    "social": "10",
+    "integrity": "1",
+    "explore": "252",
+    "data": "none"
+  },
+  {
+    "family": "21-Sep",
+    "competence": "0",
+    "aesthetics": "4",
+    "energy": "0",
+    "social": "1",
+    "integrity": "0",
+    "explore": "3",
+    "data": "none"
+  },
+  {
+    "family": "22-Sep",
+    "competence": "0",
+    "aesthetics": "4",
+    "energy": "0",
+    "social": "4",
+    "integrity": "0",
+    "explore": "2",
+    "data": "none"
+  },
+  {
+    "family": "23-Sep",
+    "competence": "0",
+    "aesthetics": "2",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "24-Sep",
+    "competence": "9",
+    "aesthetics": "17",
+    "energy": "4",
+    "social": "47",
+    "integrity": "1",
+    "explore": "84",
+    "data": "none"
+  },
+  {
+    "family": "25-Sep",
+    "competence": "31",
+    "aesthetics": "26",
+    "energy": "0",
+    "social": "4",
+    "integrity": "7",
+    "explore": "75",
+    "data": "none"
+  },
+  {
+    "family": "26-Sep",
+    "competence": "36",
+    "aesthetics": "2",
+    "energy": "4",
+    "social": "3",
+    "integrity": "0",
+    "explore": "32",
+    "data": "none"
+  },
+  {
+    "family": "27-Sep",
+    "competence": "75",
+    "aesthetics": "21",
+    "energy": "4",
+    "social": "55",
+    "integrity": "0",
+    "explore": "92",
+    "data": "none"
+  },
+  {
+    "family": "28-Sep",
+    "competence": "5",
+    "aesthetics": "36",
+    "energy": "8",
+    "social": "41",
+    "integrity": "0",
+    "explore": "62",
+    "data": "none"
+  },
+  {
+    "family": "29-Sep",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "1",
+    "integrity": "0",
+    "explore": "1",
+    "data": "none"
+  },
+  {
+    "family": "30-Sep",
+    "competence": "0",
+    "aesthetics": "1",
+    "energy": "0",
+    "social": "1",
+    "integrity": "0",
+    "explore": "1",
+    "data": "none"
+  },
+  {
+    "family": "1-Oct",
+    "competence": "20",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "2",
+    "integrity": "29",
+    "explore": "50",
+    "data": "none"
+  },
+  {
+    "family": "2-Oct",
+    "competence": "13",
+    "aesthetics": "24",
+    "energy": "0",
+    "social": "1",
+    "integrity": "16",
+    "explore": "114",
+    "data": "none"
+  },
+  {
+    "family": "3-Oct",
+    "competence": "34",
+    "aesthetics": "18",
+    "energy": "6",
+    "social": "37",
+    "integrity": "0",
+    "explore": "110",
+    "data": "none"
+  },
+  {
+    "family": "4-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "5-Oct",
+    "competence": "0",
+    "aesthetics": "1",
+    "energy": "0",
+    "social": "6",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "6-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "7-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "8-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "4",
+    "social": "4",
+    "integrity": "2",
+    "explore": "4",
+    "data": "none"
+  },
+  {
+    "family": "9-Oct",
+    "competence": "15",
+    "aesthetics": "2",
+    "energy": "7",
+    "social": "5",
+    "integrity": "10",
+    "explore": "40",
+    "data": "none"
+  },
+  {
+    "family": "10-Oct",
+    "competence": "2",
+    "aesthetics": "4",
+    "energy": "4",
+    "social": "7",
+    "integrity": "0",
+    "explore": "10",
+    "data": "none"
+  },
+  {
+    "family": "11-Oct",
+    "competence": "21",
+    "aesthetics": "27",
+    "energy": "34",
+    "social": "43",
+    "integrity": "22",
+    "explore": "65",
+    "data": "none"
+  },
+  {
+    "family": "12-Oct",
+    "competence": "7",
+    "aesthetics": "5",
+    "energy": "22",
+    "social": "21",
+    "integrity": "0",
+    "explore": "126",
+    "data": "none"
+  },
+  {
+    "family": "13-Oct",
+    "competence": "38",
+    "aesthetics": "13",
+    "energy": "22",
+    "social": "74",
+    "integrity": "35",
+    "explore": "189",
+    "data": "none"
+  },
+  {
+    "family": "14-Oct",
+    "competence": "0",
+    "aesthetics": "15",
+    "energy": "0",
+    "social": "54",
+    "integrity": "0",
+    "explore": "50",
+    "data": "none"
+  },
+  {
+    "family": "15-Oct",
+    "competence": "1",
+    "aesthetics": "0",
+    "energy": "10",
+    "social": "1",
+    "integrity": "2",
+    "explore": "8",
+    "data": "none"
+  },
+  {
+    "family": "16-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "2",
+    "social": "0",
+    "integrity": "3",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "17-Oct",
+    "competence": "0",
+    "aesthetics": "15",
+    "energy": "19",
+    "social": "20",
+    "integrity": "0",
+    "explore": "50",
+    "data": "none"
+  },
+  {
+    "family": "18-Oct",
+    "competence": "4",
+    "aesthetics": "9",
+    "energy": "3",
+    "social": "0",
+    "integrity": "37",
+    "explore": "9",
+    "data": "none"
+  },
+  {
+    "family": "19-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "20-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "21-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "22-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "5",
+    "data": "none"
+  },
+  {
+    "family": "23-Oct",
+    "competence": "5",
+    "aesthetics": "6",
+    "energy": "0",
+    "social": "2",
+    "integrity": "0",
+    "explore": "49",
+    "data": "none"
+  },
+  {
+    "family": "24-Oct",
+    "competence": "2",
+    "aesthetics": "1",
+    "energy": "0",
+    "social": "57",
+    "integrity": "0",
+    "explore": "59",
+    "data": "none"
+  },
+  {
+    "family": "25-Oct",
+    "competence": "25",
+    "aesthetics": "5",
+    "energy": "19",
+    "social": "0",
+    "integrity": "5",
+    "explore": "46",
+    "data": "none"
+  },
+  {
+    "family": "26-Oct",
+    "competence": "10",
+    "aesthetics": "1",
+    "energy": "0",
+    "social": "3",
+    "integrity": "971",
+    "explore": "62",
+    "data": "none"
+  },
+  {
+    "family": "27-Oct",
+    "competence": "6",
+    "aesthetics": "16",
+    "energy": "4",
+    "social": "45",
+    "integrity": "210",
+    "explore": "57",
+    "data": "none"
+  },
+  {
+    "family": "28-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "29-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "8",
+    "data": "none"
+  },
+  {
+    "family": "30-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": "31-Oct",
+    "competence": "0",
+    "aesthetics": "0",
+    "energy": "0",
+    "social": "0",
+    "integrity": "0",
+    "explore": "0",
+    "data": "none"
+  },
+  {
+    "family": ""
+  }
+]
+}
